@@ -80,7 +80,7 @@ php artisan serve
 Your app will be available at:
 http://127.0.0.1:8000
 
-📂 Project Structure
+## 📂 Project Structure
 app/
  ├── Http/
  │    ├── Controllers/
@@ -95,7 +95,7 @@ public/
  ├── css/
  ├── js/
 
-🔍 Search & Filter Example
+## 🔍 Search & Filter Example
 
 Your search or filter route might look like:
 
@@ -104,7 +104,7 @@ Route::get('/tasks/search', [TaskController::class, 'search'])->name('tasks.sear
 🧪 Flash Messages Example
 return redirect()->route('tasks.index')->with('success', 'Task created successfully!');
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Mostafizur Rahman
 Laravel Developer (Beginner → Intermediate)
