@@ -79,8 +79,9 @@ php artisan serve
 
 Your app will be available at:
 http://127.0.0.1:8000
+---
 
-## 📂 Project Structure
+# 📂 Project Structure
 app/
  ├── Http/
  │    ├── Controllers/
