@@ -108,11 +108,10 @@ return redirect()->route('tasks.index')->with('success', 'Task created successfu
 ## 🧑‍💻 Author
 
 Mostafizur Rahman
-Laravel Developer (Beginner → Intermediate)
-📩 Email: your-email@example.com
+Laravel Developer 
+📩 Email: mostafizurriaz@example.com
 
-🔗 LinkedIn: your-linkedin-url
-🔗 Portfolio (optional): your-portfolio-url
+🔗 LinkedIn: www.linkedin.com/in/mostafizurrahmanriaz
 
 📜 License
 
